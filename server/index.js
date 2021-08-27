@@ -27,7 +27,7 @@ app.use('/students', studentRoute);
 /**
  * MONGO DB----------------
  */
-const MONGO_CONNECTION = 'mongodb+srv://adam391:13Fire39!@cluster0.bzv7b.mongodb.net/mernstack?retryWrites=true&w=majority';
+const MONGO_CONNECTION = 'mongodb+srv://<replace-with-username>:<password>@cluster0.bzv7b.mongodb.net/<project-name>?retryWrites=true&w=majority';
 const PORT = process.env.PORT || 5000;
 mongoose.connect(MONGO_CONNECTION, {
     useNewUrlParser: true,
