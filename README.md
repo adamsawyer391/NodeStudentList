@@ -4,8 +4,6 @@ IMPORTANT NOTE:
 MongoDB passwords, project names and usernames have been removed. If you follow this step by step you will notice they are missing. Don't delete them as you go through this. 
 Just remember that I have deleted them here so they are not public.
 
-THE VIDEO THIS IS BASED ON CAN BE FOUND HERE:
-https://www.youtube.com/watch?v=-Vd5RRZXIyo
 
 
 1. setup folder mernstack
